@@ -1,0 +1,53 @@
+body{
+    background-color: gray;
+}
+
+header{
+    background-color: white;
+}
+
+header div{
+    background-color: orange;
+}
+
+#mainContainer{
+    background-color: purple;
+}
+
+.centeredContainer{
+    width: 600px;
+    margin: auto;
+}
+
+.postContainer{
+    background-color: white;
+    margin-top: 30px;
+
+}
+
+.postHeaderContainer{
+    display: flex;
+}
+
+.postHeaderContainer div{
+    width: 50%;
+    padding: 5px;
+}
+
+.postHeaderTitleContainer{
+    
+}
+
+.postHeaderDateContainer{
+    font-size: 17px;
+    line-height: 33px;
+    text-align: right;
+}
+
+.postImageContainer{
+    
+}
+
+.postCommentContainer{
+    padding: 5px;
+}
