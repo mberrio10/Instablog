@@ -7,7 +7,7 @@ header{
 }
 
 header div{
-    background-color: orange;
+    background-color: #DCDCDC;
 }
 
 #mainContainer{
@@ -50,4 +50,9 @@ header div{
 
 .postCommentContainer{
     padding: 5px;
+}
+
+img{
+    background-repeat:no-repeat;
+    width:600px;
 }
